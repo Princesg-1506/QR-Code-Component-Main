@@ -43,7 +43,7 @@ It is a solution to a Frontend Mentor challenge aimed at improving front-end dev
 * **GitHub Pages:** 
 
 ## 📷 Screenshot
-<img width="1277" height="908" alt="image" src="https://github.com/user-attachments/assets/6d782cb5-2261-488e-a8a5-82ce9c322fbc" />
+<img width="100%" height="908" alt="image" src="design/Desktop preview.jpg" />
 
 ## 👨‍💻 Author
 
