@@ -40,7 +40,7 @@ It is a solution to a Frontend Mentor challenge aimed at improving front-end dev
 
 ## 🌍 Live page
 
-* **GitHub Pages: **
+* **GitHub Pages: https://github.com/Princesg-1506/QR-Code-Component-Main.git**
 * **Github live: https://princesg-1506.github.io/QR-Code-Component-Main/**
 
 ## 📷 Screenshot
