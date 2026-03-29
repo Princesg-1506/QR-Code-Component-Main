@@ -38,9 +38,10 @@ It is a solution to a Frontend Mentor challenge aimed at improving front-end dev
 * Fixed layout responsiveness
 * Optimized CSS structure
 
-## 🌍 Live Demo
+## 🌍 Live page
 
-* **GitHub Pages:** 
+* **GitHub Pages: **
+* **Github live: https://princesg-1506.github.io/QR-Code-Component-Main/**
 
 ## 📷 Screenshot
 <img width="100%" height="908" alt="image" src="design/Desktop preview.jpg" />
